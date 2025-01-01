@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "sa.vipor.net",
-        "url": ""stratum+ssl://sa.vipor.net:5140"
+        "url": "stratum+ssl://sa.vipor.net:5140"
 		"timeout": 150,
 		"disabled": 0
 	},
